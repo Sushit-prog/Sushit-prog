@@ -203,14 +203,6 @@ Depth in AI engineering fundamentals, deliberately over breadth.
 
 `AI Engineering Internships` · `AI / ML Engineer roles` · `LLM Infrastructure Engineering` · `Developer Tooling` · `Open Source Collaboration` · `Freelance AI Development`
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sushit-prog&show_icons=true&bg_color=0A0F08&title_color=8AFF57&icon_color=CAFF3C&text_color=E8F5E1&border_color=1A2B1A&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushit-prog&background=0A0F08&stroke=1A2B1A&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1" width="48%"/>
-
-<br/><br/>
 
 <a href="mailto:pakrashys@gmail.com"><img src="https://img.shields.io/badge/email-pakrashys@gmail.com-8AFF57?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=0A0F08"/></a>
 <a href="https://www.linkedin.com/in/sushit-lal-pakrashy-590a1130b"><img src="https://img.shields.io/badge/linkedin-connect-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=0A0F08"/></a>
