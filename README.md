@@ -1,8 +1,5 @@
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sushit-prog/Sushit-prog/main/assets/constellation_header.svg" width="100%"/>
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<img width="1200" height="300" alt="constellation_header" src="https://github.com/user-attachments/assets/0f5a55ec-6313-40d6-a7ae-9f4d9958e06e" />
+![Uploading <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
 <defs>
   <radialGradient id="bgGlow" cx="50%" cy="50%" r="75%">
     <stop offset="0%" stop-color="#10180D"/>
@@ -162,6 +159,16 @@
   <circle cx="822.5" cy="249.4" r="2.26" fill="#A8FF7A"><animateTransform attributeName="transform" type="translate" values="0,0; 12.9,11.8; 0,0; -12.9,-11.8; 0,0" dur="13.98s" begin="-6.28s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/><animate attributeName="opacity" values="0.55;1;0.55" dur="8.39s" begin="-6.28s" repeatCount="indefinite"/></circle>
   <circle cx="287.4" cy="94.7" r="2.69" fill="#CAFF3C"><animateTransform attributeName="transform" type="translate" values="0,0; 11.9,-21.7; 0,0; -11.9,21.7; 0,0" dur="8.34s" begin="-2.18s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/><animate attributeName="opacity" values="0.55;1;0.55" dur="5.00s" begin="-2.18s" repeatCount="indefinite"/></circle>
 </g>
+
+<g filter="url(#textGlow)" text-anchor="middle">
+  <text x="600.0" y="144.0" class="name">SUSHIT LAL PAKRASHY</text>
+</g>
+<g text-anchor="middle">
+  <text x="600.0" y="182.0" class="title">AI Systems Engineer — Infrastructure &amp; Tooling for LLM-Based Systems</text>
+</g>
+
+</svg>constellation_header.svg…]()
+
 
 <g filter="url(#textGlow)" text-anchor="middle">
   <text x="600.0" y="144.0" class="name">SUSHIT LAL PAKRASHY</text>
