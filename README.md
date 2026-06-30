@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0A0F08,100:1A2B1A&amp;height=180&amp;section=header&amp;text=SUSHIT%20LAL%20PAKRASHY&amp;fontColor=8AFF57&amp;fontSize=32&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20RAG&amp;descAlignY=62&amp;descColor=CAFF3C&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=180&section=header&text=SUSHIT%20LAL%20PAKRASHY&fontColor=8AFF57&fontSize=32&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20RAG&descAlignY=62&descColor=CAFF3C&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=8AFF57&amp;background=0A0F0800&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=650&amp;lines=%24+whoami+%E2%86%92+AI+Engineer+%7C+Agentic+Systems+%2B+RAG;%24+stack+%E2%86%92+LangChain+%2F+LangGraph+%2F+FastAPI;%24+building+%E2%86%92+SENTINEL+Public+Safety+AI;%24+status+%E2%86%92+Open+to+Work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=8AFF57&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+AI+Engineer+%7C+Agentic+Systems+%2B+RAG;%24+stack+%E2%86%92+LangChain+%2F+LangGraph+%2F+FastAPI;%24+building+%E2%86%92+SENTINEL+Public+Safety+AI;%24+status+%E2%86%92+Open+to+Work" alt="Typing SVG" />
 
 <br/>
 
@@ -124,7 +124,7 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 |---|---|
 | **Stack** | Python, pytest plugin architecture |
 | **Scale** | Published to PyPI |
-| **Impact** | Enables semantic (not just exact-match) assertions for LLM outputs in test suites |
+| **Impact** | Enables semantic assertions for LLM outputs in test suites |
 
 </details>
 
@@ -221,10 +221,10 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sushit-prog&amp;show_icons=true&amp;hide_border=true&amp;title_color=CAFF3C&amp;icon_color=8AFF57&amp;text_color=E8F5E1&amp;bg_color=0A0F08" />
-<img height="165" src="https://streak-stats.demolab.com?user=Sushit-prog&amp;hide_border=true&amp;background=0A0F08&amp;border=8AFF57&amp;ring=8AFF57&amp;fire=CAFF3C&amp;currStreakLabel=8AFF57&amp;sideLabels=E8F5E1&amp;dates=E8F5E1&amp;currStreakNum=E8F5E1&amp;sideNums=E8F5E1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sushit-prog&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+<img height="165" src="https://streak-stats.demolab.com?user=Sushit-prog&hide_border=true&background=0A0F08&border=8AFF57&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushit-prog&amp;layout=compact&amp;hide_border=true&amp;title_color=CAFF3C&amp;text_color=E8F5E1&amp;bg_color=0A0F08" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushit-prog&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
 
 </div>
 
@@ -234,7 +234,7 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sushit-prog&amp;theme=matrix&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sushit-prog&theme=matrix&no-frame=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -244,7 +244,7 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushit-prog&amp;bg_color=0A0F08&amp;color=8AFF57&amp;line=8AFF57&amp;point=CAFF3C&amp;area=true&amp;hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushit-prog&bg_color=0A0F08&color=8AFF57&line=8AFF57&point=CAFF3C&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -254,13 +254,13 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushit-prog&amp;theme=github_dark_dimmed" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushit-prog&theme=github_dark_dimmed" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushit-prog&amp;theme=github_dark_dimmed" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushit-prog&amp;theme=github_dark_dimmed" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushit-prog&theme=github_dark_dimmed" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushit-prog&theme=github_dark_dimmed" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushit-prog&amp;theme=github_dark_dimmed" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushit-prog&amp;theme=github_dark_dimmed&amp;utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushit-prog&theme=github_dark_dimmed" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushit-prog&theme=github_dark_dimmed&utcOffset=5.5" />
 
 </div>
 
@@ -309,6 +309,6 @@ currently:
 
 > `"Ship the agent. Debug the agent. Ship it again."`
 
-<img src="https://capsule-render.vercel.app/api?type=wave&amp;color=0:0A0F08,100:1A2B1A&amp;height=120&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0F08,100:1A2B1A&height=120&section=footer" width="100%"/>
 
 </div>
