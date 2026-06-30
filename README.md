@@ -1,313 +1,191 @@
 <div align="center">
 
-# SUSHIT LAL PAKRASHY
-### AI Engineer · Agentic Systems · RAG Pipelines
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0F08&height=120&section=header&text=&fontColor=8AFF57" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=8AFF57&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+AI+Engineer+%7C+Agentic+Systems+%2B+RAG;%24+stack+%E2%86%92+LangChain+%2F+LangGraph+%2F+FastAPI;%24+building+%E2%86%92+SENTINEL+Public+Safety+AI;%24+status+%E2%86%92+Open+to+Work" alt="Typing SVG" />
+<h1>SUSHIT LAL PAKRASHY</h1>
 
-<br/>
-
-![Degree](https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication-8AFF57?style=flat-square&labelColor=0A0F08)
-![University](https://img.shields.io/badge/Guru%20Nanak%20Institute%20of%20Technology-8AFF57?style=flat-square&labelColor=0A0F08)
-![Location](https://img.shields.io/badge/West%20Bengal%2C%20India-CAFF3C?style=flat-square&labelColor=0A0F08)
+<code>AI Systems Engineer — Infrastructure & Tooling for LLM-Based Systems</code>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8AFF57?style=for-the-badge&logo=linkedin&logoColor=0A0F08)](https://www.linkedin.com/in/sushit-lal-pakrashy-590a1130b/)
-[![Email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08)](mailto:pakrashys@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8AFF57?style=for-the-badge&logo=github&logoColor=0A0F08)](https://github.com/Sushit-prog)
-[![Instagram](https://img.shields.io/badge/Instagram-CAFF3C?style=for-the-badge&logo=instagram&logoColor=0A0F08)](https://www.instagram.com/ssushitlalpakrashy/)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sushit-prog&color=8AFF57&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Sushit-prog?style=flat-square&color=8AFF57&labelColor=0A0F08&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Sushit-prog?style=flat-square&color=CAFF3C&labelColor=0A0F08&label=STARS)
+<img src="https://img.shields.io/badge/status-building-8AFF57?style=for-the-badge&logo=terminal&logoColor=0A0F08&labelColor=0A0F08"/>
+<img src="https://img.shields.io/badge/focus-AI%20infrastructure-CAFF3C?style=for-the-badge&logo=opensourceinitiative&logoColor=0A0F08&labelColor=0A0F08"/>
+<img src="https://img.shields.io/badge/location-West%20Bengal,%20India-8AFF57?style=for-the-badge&logo=googlemaps&logoColor=0A0F08&labelColor=0A0F08"/>
 
 </div>
 
----
-
-### `$ cat about.md`
-
-AI Engineer building agentic systems, RAG pipelines, and multi-module intelligence platforms — currently focused on **SENTINEL**, a Digital Public Safety Intelligence Platform for ET AI Hackathon 2.0. Background in Electronics & Communication Engineering, now working full-time toward AI/ML engineering roles through internships, open-source contributions, and self-built developer tooling.
+<br/>
 
 ```bash
-ROLE       = "AI Engineer (Fresher / Intern)"
-EXPERIENCE = "Internships + self-driven production-grade projects"
-DOMAIN     = ["Agentic AI", "RAG Pipelines", "Public Safety Intelligence", "FinTech ML"]
-STACK      = ["Python", "LangChain", "LangGraph", "FastAPI", "Streamlit",
-              "ChromaDB", "Neo4j", "Groq", "HuggingFace", "OpenRouter"]
-OPEN_TO    = ["Internships", "Full-time", "Freelance", "Remote", "Open Source"]
+$ whoami
 ```
 
----
+I don't build AI apps. I build the systems that make AI apps trustworthy enough to ship.
 
-### `$ ./tech-stack.sh`
+Most LLM projects fail quietly — outputs drift, agents loop without explanation, and "it works on my machine" means nothing when the model is non-deterministic. My work sits underneath that layer: **evaluation frameworks, replay/debugging tooling, observability platforms, and retrieval infrastructure** that give AI systems the same engineering guarantees we expect from traditional software — testability, traceability, and reproducibility.
 
-<div align="center">
+If you trace my projects back, they all answer one question: *how do you know your AI system is actually working?*
 
-**Core Stack**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,linux,vscode&theme=dark" />
-
-**Data and Infra**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
-
-</div>
-
----
-
-### `$ grep -i specialty *.md`
-
-<div align="center">
-
-![LangChain](https://img.shields.io/badge/LangChain-8AFF57?style=flat-square&labelColor=0A0F08)
-![LangGraph](https://img.shields.io/badge/LangGraph-CAFF3C?style=flat-square&labelColor=0A0F08)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-8AFF57?style=flat-square&labelColor=0A0F08)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-CAFF3C?style=flat-square&labelColor=0A0F08)
-![Groq](https://img.shields.io/badge/Groq%20Llama%203.3-8AFF57?style=flat-square&labelColor=0A0F08)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-CAFF3C?style=flat-square&labelColor=0A0F08)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-8AFF57?style=flat-square&logo=huggingface&logoColor=0A0F08&labelColor=0A0F08)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-CAFF3C?style=flat-square&labelColor=0A0F08)
-![Streamlit](https://img.shields.io/badge/Streamlit-8AFF57?style=flat-square&logo=streamlit&logoColor=0A0F08&labelColor=0A0F08)
-
-</div>
-
----
-
-### `$ cat expertise.table`
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Agentic Systems (LangGraph) | ●●●●○ | Multi-agent orchestration, stateful graphs, tool-calling pipelines |
-| RAG Pipelines | ●●●●○ | Custom vector DB (HNSW from scratch), ChromaDB, hybrid retrieval |
-| Graph Intelligence (Neo4j) | ●●●○○ | Fraud network mapping, relationship traversal for SENTINEL |
-| API and Backend (FastAPI) | ●●●●○ | Production-style backends for AI tools, OpenRouter integration |
-| LLM Tooling / Dev Tools | ●●●●○ | Built and published pytest-llm-sushit, langgraph-replay |
-| Electronics / VLSI Foundation | ●●●○○ | CMOS design, Digital Image Processing, NPTEL AI coursework |
-
----
-
-### `$ ls -la featured-projects/`
-
-<details open>
-<summary><b>SENTINEL — Digital Public Safety Intelligence Platform</b></summary>
-
-| | |
-|---|---|
-| **Stack** | Groq Llama 3.3 70B, LangGraph, ChromaDB, Neo4j Aura, HuggingFace Embeddings, ReportLab |
-| **Scale** | 4 integrated modules: SCAMWatch, CURRENCYGuard, FRAUDGraph, cross-module intelligence dashboard |
-| **Impact** | Built for ET AI Hackathon 2.0; runs fully local on constrained hardware, no GPU |
-
-Two-person team build covering scam detection, currency authentication, fraud network mapping, and a unified intelligence dashboard. Architected the system end-to-end and drove the majority of implementation.
-
-</details>
-
-<details>
-<summary><b>langgraph-replay — LangGraph Debugger</b></summary>
-
-| | |
-|---|---|
-| **Stack** | Python, LangGraph, SQLite, TUI, CLI |
-| **Scale** | Storage layer + blame engine + terminal UI, published on GitHub |
-| **Impact** | Integrates with pytest-llm-sushit via langgraph-replay blame eval |
-
-A debugger for LangGraph agent runs with persistent run history and a blame engine to trace failures back to specific graph nodes.
-
-</details>
-
-<details>
-<summary><b>pytest-llm-sushit — pytest Plugin for LLM Semantic Assertions</b></summary>
-
-| | |
-|---|---|
-| **Stack** | Python, pytest plugin architecture |
-| **Scale** | Published to PyPI |
-| **Impact** | Enables semantic assertions for LLM outputs in test suites |
-
-</details>
-
-<details>
-<summary><b>ARXIS — Multi-Agent AI Research Pipeline</b></summary>
-
-| | |
-|---|---|
-| **Stack** | LangChain, LangGraph, OpenRouter |
-| **Scale** | Multi-agent research pipeline, deployed on Streamlit Community Cloud |
-| **Impact** | Automates structured research workflows via coordinated agents |
-
-</details>
-
-<details>
-<summary><b>Applyt — AI-Powered Career Toolkit</b></summary>
-
-| | |
-|---|---|
-| **Stack** | Streamlit, LangChain, OpenRouter Llama 4 Scout |
-| **Scale** | 4 tools: Resume Checker, Resume Matcher, Cover Letter Generator, Career Coach Chatbot |
-| **Impact** | Full custom Modern SaaS Dark UI, end-to-end product build |
-
-</details>
-
-<details>
-<summary><b>Custom Vector Database — Built from Scratch</b></summary>
-
-| | |
-|---|---|
-| **Stack** | Python, HNSW indexing, LangChain-compatible wrapper |
-| **Scale** | Includes LangGraph RAG demo layer for benchmarking |
-| **Impact** | Benchmarked against FAISS and Chroma to demonstrate systems-level depth |
-
-</details>
-
----
-
-### `$ tail -f experience.log`
-
-**iNeuBytes** — *AI Engineering Intern* — 2026 to Present
-- Built an AAPL stock price prediction system evaluating 10 different ML models
-- Applied data science workflows to a real market-prediction task
-- Ongoing internship, active contributor
-
-`Python` `Machine Learning` `Data Science`
-
-**Thiranex** — *Data Science Intern (Virtual)* — 2026
-- Completed Netflix data analysis project
-- Built a heart disease prediction model
-- Worked across the full data science virtual internship track
-
-`Python` `ML` `Data Analysis`
-
-**BCG (via Forage)** — *GenAI Job Simulation* — 2026
-- Built financial data extraction pipeline from 10-K filings
-- Built a rule-based financial chatbot for a fictional client
-- Completed BCG GenAI-focused simulation track
-
-`GenAI` `Financial Data` `Chatbots`
-
----
-
-### `$ cat achievements.md`
-
-<div align="center">
-
-| Achievement | Detail |
-|---|---|
-| PyPI Package | pytest-llm-sushit published and live on PyPI |
-| Open Source PR Merged | marimo project — fixed ScratchCellListener reactive error bug #9302 |
-| Open Source PR Merged | Onyx project — Jira Service Management connector via Algora bounty #10005 |
-| Hackathon Build | SENTINEL — Digital Public Safety Intelligence Platform, ET AI Hackathon 2.0 |
-| Certification | BCG GenAI Job Simulation Forage — Completion Certificate |
-| Certification | Thiranex Data Science Virtual Internship — Completion Certificate |
-| Certification | Oracle SQL Dev Gym — Completion Certificate |
-
-</div>
-
----
-
-### `$ whoami --education`
-
-<div align="center">
-
-![Education](https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication%20Engineering-8AFF57?style=for-the-badge&labelColor=0A0F08)
-![College](https://img.shields.io/badge/Guru%20Nanak%20Institute%20of%20Technology-CAFF3C?style=for-the-badge&labelColor=0A0F08)
-
-</div>
-
----
-
-### `$ ./fetch-analytics.sh`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sushit-prog&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
-<img height="165" src="https://streak-stats.demolab.com?user=Sushit-prog&hide_border=true&background=0A0F08&border=8AFF57&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushit-prog&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
-
-</div>
-
----
-
-### `$ ./show-trophies.sh`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sushit-prog&theme=matrix&no-frame=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-### `$ ./activity-graph.sh`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushit-prog&bg_color=0A0F08&color=8AFF57&line=8AFF57&point=CAFF3C&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-### `$ ./summary-cards.sh`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushit-prog&theme=github_dark_dimmed" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushit-prog&theme=github_dark_dimmed" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushit-prog&theme=github_dark_dimmed" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushit-prog&theme=github_dark_dimmed" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushit-prog&theme=github_dark_dimmed&utcOffset=5.5" />
-
-</div>
-
----
-
-### `$ ./snake.sh --dark`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sushit-prog/Sushit-prog/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-### `$ cat current-focus.yaml`
-
-```yaml
-currently:
-  building:
-    - "SENTINEL - Phase 5: Polish and Demo Readiness (ET AI Hackathon 2.0)"
-  exploring:
-    - "AgentTrace - observability platform for multi-agent AI systems"
-    - "LangChain open source contribution targets"
-  learning:
-    - "MCP (Model Context Protocol)"
-    - "LLMOps"
-  open_to:
-    - "AI Engineering Internships"
-    - "Full-time roles"
-    - "Freelance work"
-    - "Remote opportunities"
-    - "Open source collaboration"
+```bash
+$ cat current_role.txt
 ```
 
----
+**AI/ML Engineer Intern** @ iNeuBytes — production-oriented AI/ML work, applied modeling, and systems engineering practice.
 
-### `$ ./connect.sh`
+Previously: Data Science Intern @ Thiranex (predictive modeling, applied ML workflows) · BCG GenAI Job Simulation (GenAI solution design for business problems).
+
+Currently pursuing a B.Tech in Electronics & Communication Engineering at Guru Nanak Institute of Technology.
+
+<br/>
+
+## ▸ stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<br/>
+`Python`
+
+**AI / ML Systems**
+<br/>
+`LangChain` `LangGraph` `RAG` `LLM Evaluation` `Semantic Assertions` `AI Agents` `Prompt Engineering` `HuggingFace` `Groq` `OpenRouter`
+
+</td>
+<td valign="top" width="50%">
+
+**Backend & Data**
+<br/>
+`FastAPI` `Streamlit` `Neo4j` `ChromaDB` `SQLite`
+
+**Tooling**
+<br/>
+`Git` `GitHub` `pytest` `VS Code` `OpenCode` `Mimocode`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ▸ infrastructure & tooling
+
+*Projects built to make AI systems testable, debuggable, and observable — the layer most AI engineers skip.*
+
+<br/>
+
+**[pytest-llm-sushit](https://github.com/Sushit-prog/pytest-llm)** — `PyPI package`
+
+LLM outputs can't be tested with `assert output == "expected"`. This is a pytest plugin that replaces brittle string-matching with semantic, LLM-judged assertions across multiple model providers. It exists because most AI projects ship with no real test coverage — this gives them one.
+
+`Multi-provider LLM-as-a-Judge` `Semantic assertions` `Published on PyPI`
+
+<br/>
+
+**[langgraph-replay](https://github.com/Sushit-prog/langgraph-replay)**
+
+When a LangGraph agent fails, the failure is usually buried three nodes deep in a trace you can't replay. This is a callback-based recorder for LangGraph applications — it logs execution to SQLite, replays runs deterministically, and includes a blame engine that auto-diagnoses which node and which decision caused a failure, surfaced through a terminal debugger and CLI. It's designed to integrate directly with `pytest-llm-sushit`, so failed semantic assertions can be traced back to the exact agent step that caused them.
+
+`Execution replay` `Blame engine` `Auto-diagnosis` `TUI debugger`
+
+<br/>
+
+**[AgentTrace](https://github.com/Sushit-prog) `· early stage`**
+
+`langgraph-replay` solves replay for a single agent graph. AgentTrace extends the same idea to multi-agent systems — an observability platform for tracing execution, debugging inter-agent behavior, and analyzing performance across agent fleets, not just single graphs.
+
+`Trace visualization` `Multi-agent debugging` `LLMOps`
+
+<br/>
+
+**Vector Database (from scratch)** `· in progress`
+
+Built in pure Python to understand retrieval systems at the level most RAG developers never go — rather than treating vector search as a library import. Phase 1 (flat index, cosine + Euclidean similarity) is complete with full test coverage; HNSW is the next milestone, approached by working through the algorithm deeply before implementing it.
+
+`Flat index` `Cosine / Euclidean similarity` `HNSW (in progress)` `Full test coverage`
+
+<br/>
+
+## ▸ applied systems
+
+*Where the infrastructure above gets put to work.*
+
+<br/>
+
+**[SENTINEL](https://github.com/Sushit-prog/SENTINEL)** — *ET AI Hackathon* · `Phase 5`
+
+A Digital Public Safety Intelligence Platform covering scam detection, currency authentication, and fraud network mapping through relationship analysis. Built as a multi-agent system on LangGraph, with Neo4j for network/relationship mapping, ChromaDB for retrieval, Groq for inference, and FastAPI serving the platform. Currently in active polish toward demo readiness.
+
+`LangGraph` `FastAPI` `Groq` `Neo4j` `ChromaDB`
+
+<br/>
+
+**[Applyt](https://github.com/Sushit-prog/Applyt)**
+
+An AI-powered career toolkit — resume scoring and matching, cover letter generation, and a career-coaching chatbot, built on LangChain and OpenRouter with a Streamlit frontend.
+
+**[ARXIS](https://github.com/Sushit-prog/ARXIS-)**
+
+A multi-agent research pipeline exploring automated literature and research workflows using LangGraph and LangChain agents.
+
+<br/>
+
+## ▸ open source
+
+* Two **merged pull requests** in the `marimo` project.
+* Active `marimo` PR `#9302` — fixes a reactive error-handling bug in the code-mode execution path; passed all CI checks, awaiting maintainer review.
+* Bounty contribution to `Onyx` implementing a **Jira Service Management connector**; automated review scored it 5/5 confidence.
+* Contribution strategy targets impactful, lower-competition issues in active repos rather than racing for newly opened ones — sustained involvement over one-off PRs.
+
+<br/>
+
+## ▸ engineering constraints
+
+Everything above is designed, built, and tested on a 12th Gen Intel i5, 8GB RAM, no dedicated GPU. No fine-tuning, no local large-model inference, no luxury of "just add more compute." That constraint forces resource-aware architecture, efficient algorithms, and API-first design over local heavy lifting — a discipline that tends to produce more deployable systems, not less capable ones.
+
+<br/>
+
+## ▸ workflow
+
+```
+research the problem  →  design the architecture  →  break into milestones
+        ↓
+AI-assisted implementation (OpenCode / Mimocode)  →  review & refine
+        ↓
+tests + docs + polish  →  iterate until production-ready
+```
+
+AI assistants accelerate implementation. Architecture, system design, and correctness are mine.
+
+<br/>
+
+## ▸ currently learning
+
+`LangGraph` → `Model Context Protocol (MCP)` → `LLMOps` → `Production AI Infrastructure` → `Multi-Agent Systems` → `AI Observability` → `Distributed AI Systems`
+
+Depth in AI engineering fundamentals, deliberately over breadth.
+
+<br/>
+
+## ▸ open to
+
+`AI Engineering Internships` · `AI / ML Engineer roles` · `LLM Infrastructure Engineering` · `Developer Tooling` · `Open Source Collaboration` · `Freelance AI Development`
+
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8AFF57?style=for-the-badge&logo=linkedin&logoColor=0A0F08)](https://www.linkedin.com/in/sushit-lal-pakrashy-590a1130b/)
-[![Email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08)](mailto:pakrashys@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8AFF57?style=for-the-badge&logo=github&logoColor=0A0F08)](https://github.com/Sushit-prog)
-[![Instagram](https://img.shields.io/badge/Instagram-CAFF3C?style=for-the-badge&logo=instagram&logoColor=0A0F08)](https://www.instagram.com/ssushitlalpakrashy/)
+<img src="https://github-readme-stats.vercel.app/api?username=Sushit-prog&show_icons=true&bg_color=0A0F08&title_color=8AFF57&icon_color=CAFF3C&text_color=E8F5E1&border_color=1A2B1A&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushit-prog&background=0A0F08&stroke=1A2B1A&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1" width="48%"/>
 
-> `"Ship the agent. Debug the agent. Ship it again."`
+<br/><br/>
+
+<a href="mailto:pakrashys@gmail.com"><img src="https://img.shields.io/badge/email-pakrashys@gmail.com-8AFF57?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=0A0F08"/></a>
+<a href="https://www.linkedin.com/in/sushit-lal-pakrashy-590a1130b"><img src="https://img.shields.io/badge/linkedin-connect-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=0A0F08"/></a>
+
+<br/><br/>
+
+<sub>I build reliable AI infrastructure, developer tools, and open-source software that improve how AI systems are engineered.</sub>
 
 </div>
