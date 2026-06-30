@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0F08&height=120&section=header&text=&fontColor=8AFF57" width="100%"/>
+<img src="https://raw.githubusercontent.com/Sushit-prog/Sushit-prog/main/assets/constellation_header.svg" width="100%"/>
 
 <h1>SUSHIT LAL PAKRASHY</h1>
 
