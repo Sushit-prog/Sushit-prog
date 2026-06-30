@@ -38,7 +38,7 @@ Currently pursuing a B.Tech in Electronics & Communication Engineering at Guru N
 
 <br/>
 
-## ▸ stack
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8AFF57&center=false&vCenter=true&width=300&height=40&lines=%E2%96%B8+stack" />
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ Currently pursuing a B.Tech in Electronics & Communication Engineering at Guru N
 
 <br/>
 
-## ▸ infrastructure & tooling
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8AFF57&center=false&vCenter=true&width=480&height=40&lines=%E2%96%B8+infrastructure+%26+tooling" />
 
 *Projects built to make AI systems testable, debuggable, and observable — the layer most AI engineers skip.*
 
@@ -107,7 +107,7 @@ Built in pure Python to understand retrieval systems at the level most RAG devel
 
 <br/>
 
-## ▸ applied systems
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8AFF57&center=false&vCenter=true&width=350&height=40&lines=%E2%96%B8+applied+systems" />
 
 *Where the infrastructure above gets put to work.*
 
@@ -131,7 +131,7 @@ A multi-agent research pipeline exploring automated literature and research work
 
 <br/>
 
-## ▸ open source
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8AFF57&center=false&vCenter=true&width=320&height=40&lines=%E2%96%B8+open+source" />
 
 * Two **merged pull requests** in the `marimo` project.
 * Active `marimo` PR `#9302` — fixes a reactive error-handling bug in the code-mode execution path; passed all CI checks, awaiting maintainer review.
@@ -140,13 +140,13 @@ A multi-agent research pipeline exploring automated literature and research work
 
 <br/>
 
-## ▸ engineering constraints
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8AFF57&center=false&vCenter=true&width=480&height=40&lines=%E2%96%B8+engineering+constraints" />
 
 Everything above is designed, built, and tested on a 12th Gen Intel i5, 8GB RAM, no dedicated GPU. No fine-tuning, no local large-model inference, no luxury of "just add more compute." That constraint forces resource-aware architecture, efficient algorithms, and API-first design over local heavy lifting — a discipline that tends to produce more deployable systems, not less capable ones.
 
 <br/>
 
-## ▸ workflow
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8AFF57&center=false&vCenter=true&width=280&height=40&lines=%E2%96%B8+workflow" />
 
 ```
 research the problem  →  design the architecture  →  break into milestones
@@ -160,7 +160,7 @@ AI assistants accelerate implementation. Architecture, system design, and correc
 
 <br/>
 
-## ▸ currently learning
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8AFF57&center=false&vCenter=true&width=400&height=40&lines=%E2%96%B8+currently+learning" />
 
 `LangGraph` → `Model Context Protocol (MCP)` → `LLMOps` → `Production AI Infrastructure` → `Multi-Agent Systems` → `AI Observability` → `Distributed AI Systems`
 
@@ -168,7 +168,7 @@ Depth in AI engineering fundamentals, deliberately over breadth.
 
 <br/>
 
-## ▸ open to
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8AFF57&center=false&vCenter=true&width=280&height=40&lines=%E2%96%B8+open+to" />
 
 `AI Engineering Internships` · `AI / ML Engineer roles` · `LLM Infrastructure Engineering` · `Developer Tooling` · `Open Source Collaboration` · `Freelance AI Development`
 
