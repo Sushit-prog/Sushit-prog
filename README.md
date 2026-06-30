@@ -12,8 +12,13 @@
 
 <br/>
 
-<img width="1536" height="2752" alt="Gemini_Generated_Image_kwx9uhkwx9uhkwx9" src="https://github.com/user-attachments/assets/74aab72f-97b1-4627-8162-33edf674bd00" />
-
+<p align="center">
+  <img
+    src="https://tenor.com/en-IN/view/font-hacker-meme-hacker-meme-font-meme-gif-10812246521954462064"
+    alt="Hold on, I'm getting a font to work."
+    width="450"
+  />
+</p>
 ```bash
 $ whoami
 ```
