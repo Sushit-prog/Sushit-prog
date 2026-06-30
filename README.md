@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=180&section=header&text=SUSHIT%20LAL%20PAKRASHY&fontColor=8AFF57&fontSize=32&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20RAG&descAlignY=62&descColor=CAFF3C&animation=fadeIn" width="100%"/>
+# SUSHIT LAL PAKRASHY
+### AI Engineer · Agentic Systems · RAG Pipelines
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=8AFF57&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+AI+Engineer+%7C+Agentic+Systems+%2B+RAG;%24+stack+%E2%86%92+LangChain+%2F+LangGraph+%2F+FastAPI;%24+building+%E2%86%92+SENTINEL+Public+Safety+AI;%24+status+%E2%86%92+Open+to+Work" alt="Typing SVG" />
 
@@ -50,7 +51,7 @@ OPEN_TO    = ["Internships", "Full-time", "Freelance", "Remote", "Open Source"]
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,linux,vscode&theme=dark" />
 
-**Data & Infra**
+**Data and Infra**
 
 <img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
 
@@ -83,7 +84,7 @@ OPEN_TO    = ["Internships", "Full-time", "Freelance", "Remote", "Open Source"]
 | Agentic Systems (LangGraph) | ●●●●○ | Multi-agent orchestration, stateful graphs, tool-calling pipelines |
 | RAG Pipelines | ●●●●○ | Custom vector DB (HNSW from scratch), ChromaDB, hybrid retrieval |
 | Graph Intelligence (Neo4j) | ●●●○○ | Fraud network mapping, relationship traversal for SENTINEL |
-| API & Backend (FastAPI) | ●●●●○ | Production-style backends for AI tools, OpenRouter integration |
+| API and Backend (FastAPI) | ●●●●○ | Production-style backends for AI tools, OpenRouter integration |
 | LLM Tooling / Dev Tools | ●●●●○ | Built and published pytest-llm-sushit, langgraph-replay |
 | Electronics / VLSI Foundation | ●●●○○ | CMOS design, Digital Image Processing, NPTEL AI coursework |
 
@@ -92,11 +93,11 @@ OPEN_TO    = ["Internships", "Full-time", "Freelance", "Remote", "Open Source"]
 ### `$ ls -la featured-projects/`
 
 <details open>
-<summary><b>&#9654; SENTINEL &mdash; Digital Public Safety Intelligence Platform</b></summary>
+<summary><b>SENTINEL — Digital Public Safety Intelligence Platform</b></summary>
 
 | | |
 |---|---|
-| **Stack** | Groq (Llama 3.3 70B), LangGraph, ChromaDB, Neo4j Aura, HuggingFace Embeddings, ReportLab |
+| **Stack** | Groq Llama 3.3 70B, LangGraph, ChromaDB, Neo4j Aura, HuggingFace Embeddings, ReportLab |
 | **Scale** | 4 integrated modules: SCAMWatch, CURRENCYGuard, FRAUDGraph, cross-module intelligence dashboard |
 | **Impact** | Built for ET AI Hackathon 2.0; runs fully local on constrained hardware, no GPU |
 
@@ -105,20 +106,20 @@ Two-person team build covering scam detection, currency authentication, fraud ne
 </details>
 
 <details>
-<summary><b>&#9654; langgraph-replay &mdash; LangGraph Debugger</b></summary>
+<summary><b>langgraph-replay — LangGraph Debugger</b></summary>
 
 | | |
 |---|---|
 | **Stack** | Python, LangGraph, SQLite, TUI, CLI |
 | **Scale** | Storage layer + blame engine + terminal UI, published on GitHub |
-| **Impact** | Integrates with pytest-llm-sushit via `langgraph-replay blame --eval` |
+| **Impact** | Integrates with pytest-llm-sushit via langgraph-replay blame eval |
 
 A debugger for LangGraph agent runs with persistent run history and a blame engine to trace failures back to specific graph nodes.
 
 </details>
 
 <details>
-<summary><b>&#9654; pytest-llm-sushit &mdash; pytest Plugin for LLM Semantic Assertions</b></summary>
+<summary><b>pytest-llm-sushit — pytest Plugin for LLM Semantic Assertions</b></summary>
 
 | | |
 |---|---|
@@ -129,7 +130,7 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 </details>
 
 <details>
-<summary><b>&#9654; ARXIS &mdash; Multi-Agent AI Research Pipeline</b></summary>
+<summary><b>ARXIS — Multi-Agent AI Research Pipeline</b></summary>
 
 | | |
 |---|---|
@@ -140,18 +141,18 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 </details>
 
 <details>
-<summary><b>&#9654; Applyt &mdash; AI-Powered Career Toolkit</b></summary>
+<summary><b>Applyt — AI-Powered Career Toolkit</b></summary>
 
 | | |
 |---|---|
-| **Stack** | Streamlit, LangChain, OpenRouter (Llama 4 Scout) |
+| **Stack** | Streamlit, LangChain, OpenRouter Llama 4 Scout |
 | **Scale** | 4 tools: Resume Checker, Resume Matcher, Cover Letter Generator, Career Coach Chatbot |
 | **Impact** | Full custom Modern SaaS Dark UI, end-to-end product build |
 
 </details>
 
 <details>
-<summary><b>&#9654; Custom Vector Database &mdash; Built from Scratch</b></summary>
+<summary><b>Custom Vector Database — Built from Scratch</b></summary>
 
 | | |
 |---|---|
@@ -165,21 +166,21 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 ### `$ tail -f experience.log`
 
-**iNeuBytes** &mdash; *AI Engineering Intern* &mdash; 2026 &ndash; Present
+**iNeuBytes** — *AI Engineering Intern* — 2026 to Present
 - Built an AAPL stock price prediction system evaluating 10 different ML models
 - Applied data science workflows to a real market-prediction task
 - Ongoing internship, active contributor
 
 `Python` `Machine Learning` `Data Science`
 
-**Thiranex** &mdash; *Data Science Intern (Virtual)* &mdash; 2026
+**Thiranex** — *Data Science Intern (Virtual)* — 2026
 - Completed Netflix data analysis project
 - Built a heart disease prediction model
 - Worked across the full data science virtual internship track
 
 `Python` `ML` `Data Analysis`
 
-**BCG (via Forage)** &mdash; *GenAI Job Simulation* &mdash; 2026
+**BCG (via Forage)** — *GenAI Job Simulation* — 2026
 - Built financial data extraction pipeline from 10-K filings
 - Built a rule-based financial chatbot for a fictional client
 - Completed BCG GenAI-focused simulation track
@@ -194,13 +195,13 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 | Achievement | Detail |
 |---|---|
-| 🟢 PyPI Package | `pytest-llm-sushit` published and live on PyPI |
-| 🟢 Open Source PR Merged | marimo project &mdash; fixed `ScratchCellListener` reactive error bug (#9302) |
-| 🟢 Open Source PR Merged | Onyx project &mdash; Jira Service Management connector via Algora bounty (#10005) |
-| 🟢 Hackathon Build | SENTINEL &mdash; Digital Public Safety Intelligence Platform, ET AI Hackathon 2.0 |
-| 🟢 Certification | BCG GenAI Job Simulation (Forage) &mdash; Completion Certificate |
-| 🟢 Certification | Thiranex Data Science Virtual Internship &mdash; Completion Certificate |
-| 🟢 Certification | Oracle SQL (Dev Gym) &mdash; Completion Certificate |
+| PyPI Package | pytest-llm-sushit published and live on PyPI |
+| Open Source PR Merged | marimo project — fixed ScratchCellListener reactive error bug #9302 |
+| Open Source PR Merged | Onyx project — Jira Service Management connector via Algora bounty #10005 |
+| Hackathon Build | SENTINEL — Digital Public Safety Intelligence Platform, ET AI Hackathon 2.0 |
+| Certification | BCG GenAI Job Simulation Forage — Completion Certificate |
+| Certification | Thiranex Data Science Virtual Internship — Completion Certificate |
+| Certification | Oracle SQL Dev Gym — Completion Certificate |
 
 </div>
 
@@ -221,7 +222,8 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-masteread-umaidpeerzadas-projects.vercel.app/api?username=Sushit-prog&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sushit-prog&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+<img height="165" src="https://streak-stats.demolab.com?user=Sushit-prog&hide_border=true&background=0A0F08&border=8AFF57&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushit-prog&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
 
@@ -280,9 +282,9 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 ```yaml
 currently:
   building:
-    - "SENTINEL — Phase 5: Polish & Demo Readiness (ET AI Hackathon 2.0)"
+    - "SENTINEL - Phase 5: Polish and Demo Readiness (ET AI Hackathon 2.0)"
   exploring:
-    - "AgentTrace — observability platform for multi-agent AI systems"
+    - "AgentTrace - observability platform for multi-agent AI systems"
     - "LangChain open source contribution targets"
   learning:
     - "MCP (Model Context Protocol)"
@@ -307,7 +309,5 @@ currently:
 [![Instagram](https://img.shields.io/badge/Instagram-CAFF3C?style=for-the-badge&logo=instagram&logoColor=0A0F08)](https://www.instagram.com/ssushitlalpakrashy/)
 
 > `"Ship the agent. Debug the agent. Ship it again."`
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0F08,100:1A2B1A&height=120&section=footer" width="100%"/>
 
 </div>
