@@ -131,6 +131,26 @@ A multi-agent research pipeline exploring automated literature and research work
 
 <br/>
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8AFF57&center=false&vCenter=true&width=420&height=40&lines=%E2%96%B8+project+roadmap" />
+
+*An overview of the engineering focus, maturity, and next milestone for each major project.*
+
+<br/>
+
+| Project | Engineering Area | Current Stage | Next Milestone |
+| :------ | :--------------- | :------------ | :------------- |
+| **[pytest-llm-sushit](https://github.com/Sushit-prog/pytest-llm)** | LLM Evaluation & Testing | 🟢 Production / Active | Expand semantic assertions, provider support, and evaluation capabilities |
+| **[langgraph-replay](https://github.com/Sushit-prog/langgraph-replay)** | AI Observability & Debugging | 🟢 Active Development | Integrate with AgentTrace and improve replay diagnostics |
+| **AgentTrace** | Multi-Agent Observability | 🔵 Research & Design | Build MVP for distributed agent tracing and visualization |
+| **Vector Database** | Retrieval Infrastructure | 🟡 In Development | Implement HNSW indexing and benchmark ANN performance |
+| **[SENTINEL](https://github.com/Sushit-prog/SENTINEL)** | AI Public Safety Platform | 🟡 Phase 5 – Demo Ready | Polish UX, improve workflows, and complete hackathon deployment |
+| **[Applyt](https://github.com/Sushit-prog/Applyt)** | AI Career Platform | 🟢 Active | Expand career intelligence features and improve matching accuracy |
+| **[ARXIS](https://github.com/Sushit-prog/ARXIS-)** | Multi-Agent Research Platform | 🟡 Prototype | Improve autonomous research orchestration and workflow execution |
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8AFF57&center=false&vCenter=true&width=320&height=40&lines=%E2%96%B8+open+source" />
 
 * Two **merged pull requests** in the `marimo` project.
