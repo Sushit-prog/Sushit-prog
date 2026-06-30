@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=180&section=header&text=SUSHIT%20LAL%20PAKRASHY&fontColor=8AFF57&fontSize=32&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20RAG&descAlignY=62&descColor=CAFF3C&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0A0F08,100:1A2B1A&amp;height=180&amp;section=header&amp;text=SUSHIT%20LAL%20PAKRASHY&amp;fontColor=8AFF57&amp;fontSize=32&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20RAG&amp;descAlignY=62&amp;descColor=CAFF3C&amp;animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8AFF57&background=0A0F0800&center=true&vCenter=true&multiline=true&width=650&height=130&lines=%24+whoami;%3E+AI+Engineer+%7C+Agentic+Systems+%2B+RAG;%3E+stack%3A+LangChain+%2F+LangGraph+%2F+FastAPI;%3E+building%3A+SENTINEL+-+Public+Safety+AI;%3E+status%3A+open+to+work" alt="Typing SVG" />
