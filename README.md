@@ -1,244 +1,303 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     🎯 SUSHIT'S EPIC CODING UNIVERSE - WHERE AI MEETS CREATIVITY 🎯
-═══════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- Simple Name Header as requested -->
-<h1 align="center">Hi 👋, I'm Sushit Lal Pakrashy</h1>
-<h3 align="center">A passionate AI/ML enthusiast and full stack developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=200&section=header&text=SUSHIT%20LAL%20PAKRASHY&fontColor=8AFF57&fontSize=40&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20RAG%20Pipelines&descAlignY=58&descColor=CAFF3C&animation=fadeIn" width="100%"/>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Profile Views & Followers -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushitpakrashy&label=Profile%20views&color=ff6b35&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sushitpakrashy?label=Followers&style=for-the-badge&color=4CAF50" alt="followers"/>
-</p>
-
-<!-- Coding GIF (KEPT as requested) -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     🏆 ACHIEVEMENTS & TROPHIES
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 **GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=sushitpakrashy&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     🚀 ABOUT ME SECTION
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🚀 **About Me**
-
-<!-- KEPT your anime GIF as requested -->
-<img align="right" width="400" src="https://giffiles.alphacoders.com/218/218663.gif" alt="AI Animation"/>
-
-</div>
-
-🌱 **Currently Learning:** *Data Science & Machine Learning*  
-💻 **Working On:** *AI-powered applications & Full-stack projects*  
-💬 **Ask me about:** *React, Python, JavaScript, AI/ML*  
-📧 **Reach me at:** *pakrashys@gmail.com*  
-⚡ **Fun fact:** *I think I am funny* 😄  
-🎯 **Goal:** *Building the future with AI & Code*  
-🎮 **Hobbies:** *Coding, Gaming, Tech Exploration*
-
-<br clear="both"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     🌐 CONNECT WITH ME
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🌐 **Let's Connect!**
-
-<!-- Updated GIF for connection theme -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-
-<p>
-<a href="https://linkedin.com/in/sushit-lal-pakrashy">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8AFF57&background=0A0F0800&center=true&vCenter=true&multiline=true&width=650&height=130&lines=%24+whoami;%3E+AI+Engineer+%7C+Agentic+Systems+%2B+RAG;%3E+stack%3A+LangChain+%2F+LangGraph+%2F+FastAPI;%3E+building%3A+SENTINEL+-+Public+Safety+AI;%3E+status%3A+open+to+work" alt="Typing SVG" />
 </a>
-<a href="https://kaggle.com/sushitpakrashy">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
-<a href="https://codepen.io/sushitpakrashy">
-  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
-</a>
-<a href="https://instagram.com/ssushitlalpakrshy">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:pakrashys@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-</p>
+
+![Degree](https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication-8AFF57?style=flat-square&labelColor=0A0F08)
+![University](https://img.shields.io/badge/Guru%20Nanak%20Institute%20of%20Technology-8AFF57?style=flat-square&labelColor=0A0F08)
+![Location](https://img.shields.io/badge/West%20Bengal%2C%20India-CAFF3C?style=flat-square&labelColor=0A0F08)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8AFF57?style=for-the-badge&logo=linkedin&logoColor=0A0F08)](https://www.linkedin.com/in/sushit-lal-pakrashy-590a1130b/)
+[![Email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08)](mailto:pakrashys@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8AFF57?style=for-the-badge&logo=github&logoColor=0A0F08)](https://github.com/Sushit-prog)
+[![Instagram](https://img.shields.io/badge/Instagram-CAFF3C?style=for-the-badge&logo=instagram&logoColor=0A0F08)](https://www.instagram.com/ssushitlalpakrashy/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sushit-prog&color=8AFF57&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Sushit-prog?style=flat-square&color=8AFF57&labelColor=0A0F08&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Sushit-prog?style=flat-square&color=CAFF3C&labelColor=0A0F08&label=STARS)
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     🛠️ TECH STACK
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🛠️ **Tech Arsenal**
-
-<!-- Updated tech GIF -->
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">
-
-### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,html,css" />
-
-### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma" />
-
-### **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,django,express,firebase" />
-
-### **AI/ML & Data Science**
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
-
-### **Databases & Tools**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,postman" />
-
-### **Hardware & IoT**
-<img src="https://skillicons.dev/icons?i=arduino" />
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="48" height="48"/>
-
-### **Design & Other Tools**
-<img src="https://skillicons.dev/icons?i=photoshop,blender" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="48" height="48"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     📊 GITHUB ANALYTICS
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 📊 **GitHub Analytics**
-
-<!-- Updated analytics GIF -->
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
-
-<table>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushitpakrashy&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak Stats" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sushitpakrashy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushitpakrashy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     🎨 UPGRADED INTEREST SECTION - Based on Your Passions
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🎨 **My Universe of Interests**
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="AI Brain" width="150"/>
-      <h4>🧠 Machine Learning</h4>
-      <p>Neural Networks & Deep Learning</p>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Full Stack" width="150"/>
-      <h4>⚛️ React Development</h4>
-      <p>Building dynamic user interfaces</p>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Data Science" width="150"/>
-      <h4>📈 Data Science</h4>
-      <p>Extracting insights from data</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="Python" width="150"/>
-      <h4>🐍 Python Mastery</h4>
-      <p>Backend & AI development</p>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" alt="Dragon Ball" width="150"/>
-      <h4>🐉 Dragon Ball Fan</h4>
-      <p>Power levels over 9000!</p>
-    </td>
-    <td align="center">
-      <img src="https://giffiles.alphacoders.com/206/206165.gif" alt="Gaming" width="150"/>
-      <h4>🎮 Gaming & Tech</h4>
-      <p>Always exploring new tech</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     🎮 CODING ACTIVITY & RANDOM STUFF
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🎮 **Developer Vibes**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<br/><br/>
-
-<!-- Updated coding GIF -->
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="Matrix Coding"/>
-
-### 💫 **Current Energy**
-<!-- KEPT your second anime GIF as requested -->
-<img src="https://giffiles.alphacoders.com/242/2427.gif" width="400" alt="Current Vibe" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     🚀 FOOTER
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by!+🌟;Let's+build+something+amazing+together!+💫;Happy+Coding!+👨‍💻" alt="Footer" />
+### `$ cat about.md`
 
-<!-- Updated footer GIFs -->
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+AI Engineer building agentic systems, RAG pipelines, and multi-module intelligence platforms — currently focused on **SENTINEL**, a Digital Public Safety Intelligence Platform for ET AI Hackathon 2.0. Background in Electronics & Communication Engineering, now working full-time toward AI/ML engineering roles through internships, open-source contributions, and self-built developer tooling.
 
-<img src="https://giffiles.alphacoders.com/681/6818.gif" />
+```bash
+ROLE       = "AI Engineer (Fresher / Intern)"
+EXPERIENCE = "Internships + self-driven production-grade projects"
+DOMAIN     = ["Agentic AI", "RAG Pipelines", "Public Safety Intelligence", "FinTech ML"]
+STACK      = ["Python", "LangChain", "LangGraph", "FastAPI", "Streamlit",
+              "ChromaDB", "Neo4j", "Groq", "HuggingFace", "OpenRouter"]
+OPEN_TO    = ["Internships", "Full-time", "Freelance", "Remote", "Open Source"]
+```
 
+---
+
+### `$ ./tech-stack.sh`
+
+<div align="center">
+
+**Core Stack**
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,linux,vscode" />
+
+**Data & Infra**
+<img src="https://skillicons.dev/icons?i=postgres,neo4j,redis" />
+
+</div>
+
+---
+
+### `$ grep -i specialty *.md`
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-8AFF57?style=flat-square&labelColor=0A0F08)
+![LangGraph](https://img.shields.io/badge/LangGraph-CAFF3C?style=flat-square&labelColor=0A0F08)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-8AFF57?style=flat-square&labelColor=0A0F08)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-CAFF3C?style=flat-square&labelColor=0A0F08)
+![Groq](https://img.shields.io/badge/Groq%20Llama%203.3-8AFF57?style=flat-square&labelColor=0A0F08)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-CAFF3C?style=flat-square&labelColor=0A0F08)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-8AFF57?style=flat-square&logo=huggingface&logoColor=0A0F08&labelColor=0A0F08)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-CAFF3C?style=flat-square&labelColor=0A0F08)
+![Streamlit](https://img.shields.io/badge/Streamlit-8AFF57?style=flat-square&logo=streamlit&logoColor=0A0F08&labelColor=0A0F08)
+
+</div>
+
+---
+
+### `$ cat expertise.table`
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Agentic Systems (LangGraph) | ●●●●○ | Multi-agent orchestration, stateful graphs, tool-calling pipelines |
+| RAG Pipelines | ●●●●○ | Custom vector DB (HNSW from scratch), ChromaDB, hybrid retrieval |
+| Graph Intelligence (Neo4j) | ●●●○○ | Fraud network mapping, relationship traversal for SENTINEL |
+| API & Backend (FastAPI) | ●●●●○ | Production-style backends for AI tools, OpenRouter integration |
+| LLM Tooling / Dev Tools | ●●●●○ | Built and published pytest-llm-sushit, langgraph-replay |
+| Electronics / VLSI Foundation | ●●●○○ | CMOS design, Digital Image Processing, NPTEL AI coursework |
+
+---
+
+### `$ ls -la featured-projects/`
+
+<details open>
+<summary><b>🛡️ SENTINEL — Digital Public Safety Intelligence Platform</b></summary>
+
+| | |
+|---|---|
+| **Stack** | Groq (Llama 3.3 70B), LangGraph, ChromaDB, Neo4j Aura, HuggingFace Embeddings, ReportLab |
+| **Scale** | 4 integrated modules: SCAMWatch, CURRENCYGuard, FRAUDGraph, cross-module intelligence dashboard |
+| **Impact** | Built for ET AI Hackathon 2.0; runs fully local on constrained hardware, no GPU |
+
+Two-person team build covering scam detection, currency authentication, fraud network mapping, and a unified intelligence dashboard. Architected the system end-to-end and drove the majority of implementation.
+
+</details>
+
+<details>
+<summary><b>🧰 langgraph-replay — LangGraph Debugger</b></summary>
+
+| | |
+|---|---|
+| **Stack** | Python, LangGraph, SQLite, TUI, CLI |
+| **Scale** | Storage layer + blame engine + terminal UI, published on GitHub |
+| **Impact** | Integrates with pytest-llm-sushit via `langgraph-replay blame --eval` |
+
+A debugger for LangGraph agent runs with persistent run history and a blame engine to trace failures back to specific graph nodes.
+
+</details>
+
+<details>
+<summary><b>✅ pytest-llm-sushit — pytest Plugin for LLM Semantic Assertions</b></summary>
+
+| | |
+|---|---|
+| **Stack** | Python, pytest plugin architecture |
+| **Scale** | Published to PyPI |
+| **Impact** | Enables semantic (not just exact-match) assertions for LLM outputs in test suites |
+
+</details>
+
+<details>
+<summary><b>🧭 ARXIS — Multi-Agent AI Research Pipeline</b></summary>
+
+| | |
+|---|---|
+| **Stack** | LangChain, LangGraph, OpenRouter |
+| **Scale** | Multi-agent research pipeline, deployed on Streamlit Community Cloud |
+| **Impact** | Automates structured research workflows via coordinated agents |
+
+</details>
+
+<details>
+<summary><b>📄 Applyt — AI-Powered Career Toolkit</b></summary>
+
+| | |
+|---|---|
+| **Stack** | Streamlit, LangChain, OpenRouter (Llama 4 Scout) |
+| **Scale** | 4 tools: Resume Checker, Resume Matcher, Cover Letter Generator, Career Coach Chatbot |
+| **Impact** | Full custom "Modern SaaS Dark" UI, end-to-end product build |
+
+</details>
+
+<details>
+<summary><b>🔍 Custom Vector Database — Built from Scratch</b></summary>
+
+| | |
+|---|---|
+| **Stack** | Python, HNSW indexing, LangChain-compatible wrapper |
+| **Scale** | Includes LangGraph RAG demo layer for benchmarking |
+| **Impact** | Benchmarked against FAISS and Chroma to demonstrate systems-level depth |
+
+</details>
+
+---
+
+### `$ tail -f experience.log`
+
+**iNeuBytes** — *AI Engineering Intern* — 2025 – Present
+- Built an AAPL stock price prediction system evaluating 10 different ML models
+- Applied data science workflows to a real market-prediction task
+- Ongoing internship, active contributor
+`Python` `Machine Learning` `Data Science`
+
+**Thiranex** — *Data Science Intern (Virtual)* — 2025
+- Completed Netflix data analysis project
+- Built a heart disease prediction model
+- Worked across the full data science virtual internship track
+`Python` `ML` `Data Analysis`
+
+**BCG (via Forage)** — *GenAI Job Simulation* — 2025
+- Built financial data extraction pipeline from 10-K filings
+- Built a rule-based financial chatbot for a fictional client
+- Completed BCG's GenAI-focused simulation track
+`GenAI` `Financial Data` `Chatbots`
+
+---
+
+### `$ cat achievements.md`
+
+<div align="center">
+
+| Achievement | Detail |
+|---|---|
+| 🟢 PyPI Package | `pytest-llm-sushit` published and live on PyPI |
+| 🟢 Open Source PR Merged | marimo project — fixed `ScratchCellListener` reactive error bug (#9302) |
+| 🟢 Open Source PR Merged | Onyx project — Jira Service Management connector via Algora bounty (#10005) |
+| 🟢 Hackathon Build | SENTINEL — Digital Public Safety Intelligence Platform, ET AI Hackathon 2.0 |
+| 🟢 Certification | BCG GenAI Job Simulation (Forage) — Completion Certificate |
+| 🟢 Certification | Thiranex Data Science Virtual Internship — Completion Certificate |
+| 🟢 Certification | Oracle SQL (Dev Gym) — Completion Certificate |
+
+</div>
+
+---
+
+### `$ whoami --education`
+
+<div align="center">
+
+![Education](https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication%20Engineering-8AFF57?style=for-the-badge&labelColor=0A0F08)
+![College](https://img.shields.io/badge/Guru%20Nanak%20Institute%20of%20Technology-CAFF3C?style=for-the-badge&labelColor=0A0F08)
+
+</div>
+
+---
+
+### `$ ./fetch-analytics.sh`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sushit-prog&show_icons=true&bg_color=0A0F08&title_color=CAFF3C&text_color=E8F5E1&icon_color=8AFF57&border_color=8AFF57&hide_border=false" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Sushit-prog&background=0A0F08&border=8AFF57&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushit-prog&layout=compact&bg_color=0A0F08&title_color=CAFF3C&text_color=E8F5E1&border_color=8AFF57" width="48%"/>
+
+</div>
+
+---
+
+### `$ ./show-trophies.sh`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sushit-prog&theme=matrix&no-frame=true&column=7&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+### `$ ./activity-graph.sh`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushit-prog&bg_color=0A0F08&color=8AFF57&line=8AFF57&point=CAFF3C&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+### `$ ./summary-cards.sh`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushit-prog&theme=github_dark_dimmed" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushit-prog&theme=github_dark_dimmed" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushit-prog&theme=github_dark_dimmed" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushit-prog&theme=github_dark_dimmed" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushit-prog&theme=github_dark_dimmed&utcOffset=5.5" width="48%"/>
+
+</div>
+
+---
+
+### `$ ./snake.sh --dark`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sushit-prog/Sushit-prog/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+### `$ cat current-focus.yaml`
+
+```yaml
+currently:
+  building:
+    - "SENTINEL — Phase 5: Polish & Demo Readiness (ET AI Hackathon 2.0)"
+    - "AgentTracker — early-stage agent observability/tracking tool"
+  learning:
+    - "MCP (Model Context Protocol)"
+    - "LLMOps"
+  exploring:
+    - "LangChain open source contribution targets"
+  open_to:
+    - "AI Engineering Internships"
+    - "Full-time roles"
+    - "Freelance work"
+    - "Remote opportunities"
+    - "Open source collaboration"
+```
+
+---
+
+### `$ ./connect.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8AFF57?style=for-the-badge&logo=linkedin&logoColor=0A0F08)](https://www.linkedin.com/in/sushit-lal-pakrashy-590a1130b/)
+[![Email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08)](mailto:pakrashys@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8AFF57?style=for-the-badge&logo=github&logoColor=0A0F08)](https://github.com/Sushit-prog)
+[![Instagram](https://img.shields.io/badge/Instagram-CAFF3C?style=for-the-badge&logo=instagram&logoColor=0A0F08)](https://www.instagram.com/ssushitlalpakrashy/)
+
+> `"Ship the agent. Debug the agent. Ship it again."`
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0F08,100:1A2B1A&height=120&section=footer" width="100%"/>
 
 </div>
