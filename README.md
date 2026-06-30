@@ -1,4 +1,4 @@
-<img width="1200" height="300" alt="constellation_header" src="https://github.com/user-attachments/assets/7c20d904-caff-462c-a4e5-9ad065dc116a" />
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Sushit-prog/Sushit-prog/main/assets/constellation_header.svg" width="100%"/>
