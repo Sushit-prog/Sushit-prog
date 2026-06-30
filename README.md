@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=200&section=header&text=SUSHIT%20LAL%20PAKRASHY&fontColor=8AFF57&fontSize=40&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20RAG%20Pipelines&descAlignY=58&descColor=CAFF3C&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=180&section=header&text=SUSHIT%20LAL%20PAKRASHY&fontColor=8AFF57&fontSize=32&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20RAG&descAlignY=62&descColor=CAFF3C&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8AFF57&background=0A0F0800&center=true&vCenter=true&multiline=true&width=650&height=130&lines=%24+whoami;%3E+AI+Engineer+%7C+Agentic+Systems+%2B+RAG;%3E+stack%3A+LangChain+%2F+LangGraph+%2F+FastAPI;%3E+building%3A+SENTINEL+-+Public+Safety+AI;%3E+status%3A+open+to+work" alt="Typing SVG" />
@@ -159,19 +159,19 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 ### `$ tail -f experience.log`
 
-**iNeuBytes** — *AI Engineering Intern* — 2025 – Present
+**iNeuBytes** — *AI Engineering Intern* — 2026 – Present
 - Built an AAPL stock price prediction system evaluating 10 different ML models
 - Applied data science workflows to a real market-prediction task
 - Ongoing internship, active contributor
 `Python` `Machine Learning` `Data Science`
 
-**Thiranex** — *Data Science Intern (Virtual)* — 2025
+**Thiranex** — *Data Science Intern (Virtual)* — 2026
 - Completed Netflix data analysis project
 - Built a heart disease prediction model
 - Worked across the full data science virtual internship track
 `Python` `ML` `Data Analysis`
 
-**BCG (via Forage)** — *GenAI Job Simulation* — 2025
+**BCG (via Forage)** — *GenAI Job Simulation* — 2026
 - Built financial data extraction pipeline from 10-K filings
 - Built a rule-based financial chatbot for a fictional client
 - Completed BCG's GenAI-focused simulation track
@@ -210,14 +210,15 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 ### `$ ./fetch-analytics.sh`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sushit-prog&show_icons=true&bg_color=0A0F08&title_color=CAFF3C&text_color=E8F5E1&icon_color=8AFF57&border_color=8AFF57&hide_border=false" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=Sushit-prog&background=0A0F08&border=8AFF57&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushit-prog&layout=compact&bg_color=0A0F08&title_color=CAFF3C&text_color=E8F5E1&border_color=8AFF57" width="48%"/>
-
-</div>
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Sushit-prog&show_icons=true&bg_color=0A0F08&title_color=CAFF3C&text_color=E8F5E1&icon_color=8AFF57&border_color=8AFF57&hide_border=false" /></td>
+<td><img src="https://streak-stats.demolab.com?user=Sushit-prog&background=0A0F08&border=8AFF57&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushit-prog&layout=compact&bg_color=0A0F08&title_color=CAFF3C&text_color=E8F5E1&border_color=8AFF57" /></td>
+</tr>
+</table>
 
 ---
 
@@ -243,15 +244,19 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 ### `$ ./summary-cards.sh`
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushit-prog&theme=github_dark_dimmed" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushit-prog&theme=github_dark_dimmed" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushit-prog&theme=github_dark_dimmed" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushit-prog&theme=github_dark_dimmed" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushit-prog&theme=github_dark_dimmed&utcOffset=5.5" width="48%"/>
-
-</div>
+<table align="center">
+<tr>
+<td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushit-prog&theme=github_dark_dimmed" width="100%"/></td>
+</tr>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushit-prog&theme=github_dark_dimmed" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushit-prog&theme=github_dark_dimmed" /></td>
+</tr>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushit-prog&theme=github_dark_dimmed" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushit-prog&theme=github_dark_dimmed&utcOffset=5.5" /></td>
+</tr>
+</table>
 
 ---
 
@@ -271,12 +276,12 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 currently:
   building:
     - "SENTINEL — Phase 5: Polish & Demo Readiness (ET AI Hackathon 2.0)"
-    - "AgentTracker — early-stage agent observability/tracking tool"
+  exploring:
+    - "AgentTrace — observability platform for multi-agent AI systems (execution graphs, tool call chains, agent-level tracing)"
+    - "LangChain open source contribution targets"
   learning:
     - "MCP (Model Context Protocol)"
     - "LLMOps"
-  exploring:
-    - "LangChain open source contribution targets"
   open_to:
     - "AI Engineering Internships"
     - "Full-time roles"
