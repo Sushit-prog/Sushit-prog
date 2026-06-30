@@ -168,6 +168,17 @@ Depth in AI engineering fundamentals, deliberately over breadth.
 
 <br/>
 
+
+<h2>▸ activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sushit-prog&bg_color=0A0F08&color=E8F5E1&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B1A&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8AFF57&center=false&vCenter=true&width=280&height=40&lines=%E2%96%B8+open+to" />
 
 `AI Engineering Internships` · `AI / ML Engineer roles` · `LLM Infrastructure Engineering` · `Developer Tooling` · `Open Source Collaboration` · `Freelance AI Development`
