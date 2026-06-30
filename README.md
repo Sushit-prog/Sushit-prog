@@ -14,11 +14,12 @@
 
 <p align="center">
   <img
-    src="https://tenor.com/en-IN/view/font-hacker-meme-hacker-meme-font-meme-gif-10812246521954462064"
+    src="https://c.tenor.com/lgzQ7Q0MaXAAAAAd/tenor.gif"
     alt="Hold on, I'm getting a font to work."
     width="450"
   />
 </p>
+
 ```bash
 $ whoami
 ```
