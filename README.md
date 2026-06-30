@@ -212,7 +212,7 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Sushit-prog&show_icons=true&bg_color=0A0F08&title_color=CAFF3C&text_color=E8F5E1&icon_color=8AFF57&border_color=8AFF57&hide_border=false" /></td>
+<td><img src="https://github-readme-stats-sushit-prog.vercel.app/api?username=Sushit-prog&show_icons=true&bg_color=0A0F08&title_color=CAFF3C&text_color=E8F5E1&icon_color=8AFF57&border_color=8AFF57&hide_border=false" /></td>
 <td><img src="https://streak-stats.demolab.com?user=Sushit-prog&background=0A0F08&border=8AFF57&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1" /></td>
 </tr>
 <tr>
