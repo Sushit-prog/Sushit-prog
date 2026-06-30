@@ -207,6 +207,14 @@ Depth in AI engineering fundamentals, deliberately over breadth.
 
 <br/><br/>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif"
+    alt="GitHub Contribution Space Shooter Animation"
+    width="100%"
+  />
+</p>
+
 <sub>I build reliable AI infrastructure, developer tools, and open-source software that improve how AI systems are engineered.</sub>
 
 </div>
