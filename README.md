@@ -83,12 +83,6 @@ LLM outputs can't be tested with `assert output == "expected"`. This is a pytest
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Sushit-prog/pytest-llm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushit-prog&repo=pytest-llm&bg_color=0A0F08&title_color=8AFF57&text_color=E8F5E1&border_color=1A2B1A" />
-  </a>
-</p>
-
 **[langgraph-replay](https://github.com/Sushit-prog/langgraph-replay)**
 
 When a LangGraph agent fails, the failure is usually buried three nodes deep in a trace you can't replay. This is a callback-based recorder for LangGraph applications — it logs execution to SQLite, replays runs deterministically, and includes a blame engine that auto-diagnoses which node and which decision caused a failure, surfaced through a terminal debugger and CLI. It's designed to integrate directly with `pytest-llm-sushit`, so failed semantic assertions can be traced back to the exact agent step that caused them.
