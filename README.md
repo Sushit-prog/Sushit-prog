@@ -2,18 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0A0F08,100:1A2B1A&amp;height=180&amp;section=header&amp;text=SUSHIT%20LAL%20PAKRASHY&amp;fontColor=8AFF57&amp;fontSize=32&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20RAG&amp;descAlignY=62&amp;descColor=CAFF3C&amp;animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8AFF57&background=0A0F0800&center=true&vCenter=true&multiline=true&width=650&height=130&lines=%24+whoami;%3E+AI+Engineer+%7C+Agentic+Systems+%2B+RAG;%3E+stack%3A+LangChain+%2F+LangGraph+%2F+FastAPI;%3E+building%3A+SENTINEL+-+Public+Safety+AI;%3E+status%3A+open+to+work" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=8AFF57&amp;background=0A0F0800&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=650&amp;lines=%24+whoami+%E2%86%92+AI+Engineer+%7C+Agentic+Systems+%2B+RAG;%24+stack+%E2%86%92+LangChain+%2F+LangGraph+%2F+FastAPI;%24+building+%E2%86%92+SENTINEL+Public+Safety+AI;%24+status+%E2%86%92+Open+to+Work" alt="Typing SVG" />
+
+<br/>
 
 ![Degree](https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication-8AFF57?style=flat-square&labelColor=0A0F08)
 ![University](https://img.shields.io/badge/Guru%20Nanak%20Institute%20of%20Technology-8AFF57?style=flat-square&labelColor=0A0F08)
 ![Location](https://img.shields.io/badge/West%20Bengal%2C%20India-CAFF3C?style=flat-square&labelColor=0A0F08)
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8AFF57?style=for-the-badge&logo=linkedin&logoColor=0A0F08)](https://www.linkedin.com/in/sushit-lal-pakrashy-590a1130b/)
 [![Email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08)](mailto:pakrashys@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8AFF57?style=for-the-badge&logo=github&logoColor=0A0F08)](https://github.com/Sushit-prog)
 [![Instagram](https://img.shields.io/badge/Instagram-CAFF3C?style=for-the-badge&logo=instagram&logoColor=0A0F08)](https://www.instagram.com/ssushitlalpakrashy/)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sushit-prog&color=8AFF57&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Sushit-prog?style=flat-square&color=8AFF57&labelColor=0A0F08&label=FOLLOWERS)
@@ -43,10 +47,12 @@ OPEN_TO    = ["Internships", "Full-time", "Freelance", "Remote", "Open Source"]
 <div align="center">
 
 **Core Stack**
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,linux,vscode" />
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,linux,vscode&theme=dark" />
 
 **Data & Infra**
-<img src="https://skillicons.dev/icons?i=postgres,neo4j,redis" />
+
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
 
 </div>
 
@@ -59,7 +65,7 @@ OPEN_TO    = ["Internships", "Full-time", "Freelance", "Remote", "Open Source"]
 ![LangChain](https://img.shields.io/badge/LangChain-8AFF57?style=flat-square&labelColor=0A0F08)
 ![LangGraph](https://img.shields.io/badge/LangGraph-CAFF3C?style=flat-square&labelColor=0A0F08)
 ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-8AFF57?style=flat-square&labelColor=0A0F08)
-![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-CAFF3C?style=flat-square&labelColor=0A0F08)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-CAFF3C?style=flat-square&labelColor=0A0F08)
 ![Groq](https://img.shields.io/badge/Groq%20Llama%203.3-8AFF57?style=flat-square&labelColor=0A0F08)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-CAFF3C?style=flat-square&labelColor=0A0F08)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-8AFF57?style=flat-square&logo=huggingface&logoColor=0A0F08&labelColor=0A0F08)
@@ -86,7 +92,7 @@ OPEN_TO    = ["Internships", "Full-time", "Freelance", "Remote", "Open Source"]
 ### `$ ls -la featured-projects/`
 
 <details open>
-<summary><b>🛡️ SENTINEL — Digital Public Safety Intelligence Platform</b></summary>
+<summary><b>&#9654; SENTINEL &mdash; Digital Public Safety Intelligence Platform</b></summary>
 
 | | |
 |---|---|
@@ -99,7 +105,7 @@ Two-person team build covering scam detection, currency authentication, fraud ne
 </details>
 
 <details>
-<summary><b>🧰 langgraph-replay — LangGraph Debugger</b></summary>
+<summary><b>&#9654; langgraph-replay &mdash; LangGraph Debugger</b></summary>
 
 | | |
 |---|---|
@@ -112,7 +118,7 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 </details>
 
 <details>
-<summary><b>✅ pytest-llm-sushit — pytest Plugin for LLM Semantic Assertions</b></summary>
+<summary><b>&#9654; pytest-llm-sushit &mdash; pytest Plugin for LLM Semantic Assertions</b></summary>
 
 | | |
 |---|---|
@@ -123,7 +129,7 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 </details>
 
 <details>
-<summary><b>🧭 ARXIS — Multi-Agent AI Research Pipeline</b></summary>
+<summary><b>&#9654; ARXIS &mdash; Multi-Agent AI Research Pipeline</b></summary>
 
 | | |
 |---|---|
@@ -134,18 +140,18 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 </details>
 
 <details>
-<summary><b>📄 Applyt — AI-Powered Career Toolkit</b></summary>
+<summary><b>&#9654; Applyt &mdash; AI-Powered Career Toolkit</b></summary>
 
 | | |
 |---|---|
 | **Stack** | Streamlit, LangChain, OpenRouter (Llama 4 Scout) |
 | **Scale** | 4 tools: Resume Checker, Resume Matcher, Cover Letter Generator, Career Coach Chatbot |
-| **Impact** | Full custom "Modern SaaS Dark" UI, end-to-end product build |
+| **Impact** | Full custom Modern SaaS Dark UI, end-to-end product build |
 
 </details>
 
 <details>
-<summary><b>🔍 Custom Vector Database — Built from Scratch</b></summary>
+<summary><b>&#9654; Custom Vector Database &mdash; Built from Scratch</b></summary>
 
 | | |
 |---|---|
@@ -159,22 +165,25 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 ### `$ tail -f experience.log`
 
-**iNeuBytes** — *AI Engineering Intern* — 2026 – Present
+**iNeuBytes** &mdash; *AI Engineering Intern* &mdash; 2026 &ndash; Present
 - Built an AAPL stock price prediction system evaluating 10 different ML models
 - Applied data science workflows to a real market-prediction task
 - Ongoing internship, active contributor
+
 `Python` `Machine Learning` `Data Science`
 
-**Thiranex** — *Data Science Intern (Virtual)* — 2026
+**Thiranex** &mdash; *Data Science Intern (Virtual)* &mdash; 2026
 - Completed Netflix data analysis project
 - Built a heart disease prediction model
 - Worked across the full data science virtual internship track
+
 `Python` `ML` `Data Analysis`
 
-**BCG (via Forage)** — *GenAI Job Simulation* — 2026
+**BCG (via Forage)** &mdash; *GenAI Job Simulation* &mdash; 2026
 - Built financial data extraction pipeline from 10-K filings
 - Built a rule-based financial chatbot for a fictional client
-- Completed BCG's GenAI-focused simulation track
+- Completed BCG GenAI-focused simulation track
+
 `GenAI` `Financial Data` `Chatbots`
 
 ---
@@ -186,12 +195,12 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 | Achievement | Detail |
 |---|---|
 | 🟢 PyPI Package | `pytest-llm-sushit` published and live on PyPI |
-| 🟢 Open Source PR Merged | marimo project — fixed `ScratchCellListener` reactive error bug (#9302) |
-| 🟢 Open Source PR Merged | Onyx project — Jira Service Management connector via Algora bounty (#10005) |
-| 🟢 Hackathon Build | SENTINEL — Digital Public Safety Intelligence Platform, ET AI Hackathon 2.0 |
-| 🟢 Certification | BCG GenAI Job Simulation (Forage) — Completion Certificate |
-| 🟢 Certification | Thiranex Data Science Virtual Internship — Completion Certificate |
-| 🟢 Certification | Oracle SQL (Dev Gym) — Completion Certificate |
+| 🟢 Open Source PR Merged | marimo project &mdash; fixed `ScratchCellListener` reactive error bug (#9302) |
+| 🟢 Open Source PR Merged | Onyx project &mdash; Jira Service Management connector via Algora bounty (#10005) |
+| 🟢 Hackathon Build | SENTINEL &mdash; Digital Public Safety Intelligence Platform, ET AI Hackathon 2.0 |
+| 🟢 Certification | BCG GenAI Job Simulation (Forage) &mdash; Completion Certificate |
+| 🟢 Certification | Thiranex Data Science Virtual Internship &mdash; Completion Certificate |
+| 🟢 Certification | Oracle SQL (Dev Gym) &mdash; Completion Certificate |
 
 </div>
 
@@ -210,15 +219,14 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 ### `$ ./fetch-analytics.sh`
 
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats-sushit-prog.vercel.app/api?username=Sushit-prog&show_icons=true&bg_color=0A0F08&title_color=CAFF3C&text_color=E8F5E1&icon_color=8AFF57&border_color=8AFF57&hide_border=false" /></td>
-<td><img src="https://streak-stats.demolab.com?user=Sushit-prog&background=0A0F08&border=8AFF57&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1" /></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushit-prog&layout=compact&bg_color=0A0F08&title_color=CAFF3C&text_color=E8F5E1&border_color=8AFF57" /></td>
-</tr>
-</table>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sushit-prog&amp;show_icons=true&amp;hide_border=true&amp;title_color=CAFF3C&amp;icon_color=8AFF57&amp;text_color=E8F5E1&amp;bg_color=0A0F08" />
+<img height="165" src="https://streak-stats.demolab.com?user=Sushit-prog&amp;hide_border=true&amp;background=0A0F08&amp;border=8AFF57&amp;ring=8AFF57&amp;fire=CAFF3C&amp;currStreakLabel=8AFF57&amp;sideLabels=E8F5E1&amp;dates=E8F5E1&amp;currStreakNum=E8F5E1&amp;sideNums=E8F5E1" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushit-prog&amp;layout=compact&amp;hide_border=true&amp;title_color=CAFF3C&amp;text_color=E8F5E1&amp;bg_color=0A0F08" />
+
+</div>
 
 ---
 
@@ -226,7 +234,7 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sushit-prog&theme=matrix&no-frame=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sushit-prog&amp;theme=matrix&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10" />
 
 </div>
 
@@ -236,7 +244,7 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushit-prog&bg_color=0A0F08&color=8AFF57&line=8AFF57&point=CAFF3C&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushit-prog&amp;bg_color=0A0F08&amp;color=8AFF57&amp;line=8AFF57&amp;point=CAFF3C&amp;area=true&amp;hide_border=true" width="100%"/>
 
 </div>
 
@@ -244,19 +252,17 @@ A debugger for LangGraph agent runs with persistent run history and a blame engi
 
 ### `$ ./summary-cards.sh`
 
-<table align="center">
-<tr>
-<td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushit-prog&theme=github_dark_dimmed" width="100%"/></td>
-</tr>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushit-prog&theme=github_dark_dimmed" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushit-prog&theme=github_dark_dimmed" /></td>
-</tr>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushit-prog&theme=github_dark_dimmed" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushit-prog&theme=github_dark_dimmed&utcOffset=5.5" /></td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushit-prog&amp;theme=github_dark_dimmed" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushit-prog&amp;theme=github_dark_dimmed" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushit-prog&amp;theme=github_dark_dimmed" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushit-prog&amp;theme=github_dark_dimmed" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushit-prog&amp;theme=github_dark_dimmed&amp;utcOffset=5.5" />
+
+</div>
 
 ---
 
@@ -277,7 +283,7 @@ currently:
   building:
     - "SENTINEL — Phase 5: Polish & Demo Readiness (ET AI Hackathon 2.0)"
   exploring:
-    - "AgentTrace — observability platform for multi-agent AI systems (execution graphs, tool call chains, agent-level tracing)"
+    - "AgentTrace — observability platform for multi-agent AI systems"
     - "LangChain open source contribution targets"
   learning:
     - "MCP (Model Context Protocol)"
@@ -303,6 +309,6 @@ currently:
 
 > `"Ship the agent. Debug the agent. Ship it again."`
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0F08,100:1A2B1A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&amp;color=0:0A0F08,100:1A2B1A&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
